@@ -1,2 +1,2 @@
-print("Bienvenido Lenin Solorzano")
+print("Bienvenido Vladimir Solorzano Valencia")
 print("Universidad Continental")
